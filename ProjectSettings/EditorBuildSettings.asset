@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Cover.unity
+    guid: 51d4ae7328569674f83be3e5e2e1c4e1
+  - enabled: 1
+    path: Assets/Scenes/Hal1.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/Hal2.unity
+    guid: 7c516f6a5725dd444a4a22a00e4e352b
+  - enabled: 1
+    path: Assets/Scenes/Hal3.unity
+    guid: 41f99eda5b3e94f4fac5c5dadc1c5b10
+  - enabled: 1
+    path: Assets/Scenes/Hal4.unity
+    guid: 4f3d8284a7a891d4baf002b694614641
+  - enabled: 1
+    path: Assets/Scenes/Hal5.unity
+    guid: 80184e9d9fd88df459272fccb7ab4263
+  - enabled: 1
+    path: Assets/Scenes/Hal6.unity
+    guid: 99c9560130c933b4aa86c7bbaef2f486
+  - enabled: 1
+    path: Assets/Scenes/Hal7.unity
+    guid: 37a8775ea6432854daa8b44c8cf2d530
+  - enabled: 1
+    path: Assets/Scenes/Hal8.unity
+    guid: c7faca13412e7d54abeb7c1358e8e0a1
+  - enabled: 1
+    path: Assets/Scenes/Hal9.unity
+    guid: debad8d35dad5274eb3c411ad1963e07
+  - enabled: 1
+    path: Assets/Scenes/Hal10.unity
+    guid: 504851496849dc7439a410bb9366ee4f
+  - enabled: 1
+    path: Assets/Scenes/Hal11.unity
+    guid: 7c6628af944e0ff4c8798c7958fb1eff
+  - enabled: 1
+    path: Assets/Scenes/Hal12.unity
+    guid: 4009f51fb345c8348ad22c159535d616
+  - enabled: 1
+    path: Assets/Scenes/Hal13.unity
+    guid: adef5af34b7f4cb40b679686f33b59a9
+  - enabled: 1
+    path: Assets/Scenes/Hal14.unity
+    guid: bab4b324c1a101b41b627f3b3f0a8fa1
+  - enabled: 1
+    path: Assets/Scenes/Hal15.unity
+    guid: a44c1c0667b84bd47926382a3225cc09
+  - enabled: 1
+    path: Assets/Scenes/Hal16.unity
+    guid: 9793e6cc5bb0a6a409596f0d40bd4a60
+  - enabled: 1
+    path: Assets/Scenes/Hal17.unity
+    guid: 41640a58e5073204b8af4b879263dc67
+  - enabled: 1
+    path: Assets/Scenes/Hal18.unity
+    guid: 856cb7a04a1a41d488b1df0c8409f032
+  - enabled: 1
+    path: Assets/Scenes/Hal19.unity
+    guid: 91644c81531d3c94382894200c733e77
+  - enabled: 1
+    path: Assets/Scenes/Hal20.unity
+    guid: 21d533c3a99acbe47a8baaf148499a50
+  - enabled: 1
+    path: Assets/Scenes/Hal21.unity
+    guid: 92e3569ebdd82e745b4d1da81a1fdbcb
+  - enabled: 1
+    path: Assets/Scenes/Hal22.unity
+    guid: ee5a10f782ed07149996e3c4706efff6
+  - enabled: 1
+    path: Assets/Scenes/Hal23.unity
+    guid: ee12b1749f27ab34d926ed955c182d02
+  - enabled: 1
+    path: Assets/Scenes/Hal24.unity
+    guid: 2ca2b2d12e6c74940838c704397942bb
+  - enabled: 1
+    path: Assets/Scenes/Hal25.unity
+    guid: b5868086805fc5b4ca855a8aad3561cf
+  - enabled: 1
+    path: Assets/Scenes/Hal26.unity
+    guid: 80cb7bd8e0ba2f146ad79f7e4216cdba
+  - enabled: 1
+    path: Assets/Scenes/PesanMoral.unity
+    guid: e41a994e2a33d9940a95664f1cf8dd75
+  - enabled: 1
+    path: Assets/Scenes/TerimaKasih.unity
+    guid: d9768ab7c60af634c83104e43fbe2025
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 8247785a93767bf42a7189f6b014402c, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 1a4f4c55fd170824f889279b69375a48, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 6a80994f856365245b017fe964459e7e, type: 2}
