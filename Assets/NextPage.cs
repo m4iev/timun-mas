@@ -1,11 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.SceneManagement;
-
-public class LoadNextScene : MonoBehaviour
-{
-    public void LoadNext() {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:21b0e50f6f38866f6d3551d0ad4fc08b689a077754d3ef5f6728038299f7c68d
+size 286

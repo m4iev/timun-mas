@@ -1,20 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.SceneManagement;
- 
-public class SwapScenesEnd : MonoBehaviour
-{
-    void Awake()
-    {
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
-        }
- 
-        if (SceneManager.GetActiveScene().name == "PesanMoral")
-            BGMusic26.instance.GetComponent<AudioSource>().Stop();
-            //BGmusic.instance.GetComponent<AudioSource>().Play();
- 
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b924e7f4bba1bf7e7a8f5a050557100a47cb675e9803e9c5293693ec94428d06
+size 559

@@ -1,20 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.SceneManagement;
- 
-public class SwapScenes : MonoBehaviour
-{
-    void Awake()
-    {
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
-        }
- 
-        if (SceneManager.GetActiveScene().name == "Hal2")
-            BGMusic.instance.GetComponent<AudioSource>().Stop();
-            //BGmusic.instance.GetComponent<AudioSource>().Play();
- 
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6b8f07dedc43530aad6aba25358236d61e5b75eae858628a539615d1654287d
+size 548

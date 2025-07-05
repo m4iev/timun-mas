@@ -1,19 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
- 
-public class BGMusic8 : MonoBehaviour
-{
-    public static BGMusic8 instance;
- 
-    void Awake()
-    {
-        if (instance != null)
-            Destroy(gameObject);
-        else
-        {
-            instance = this;
-            DontDestroyOnLoad(this.gameObject);
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5bdbdc31a720f6e74cdd578aaeece549d7634bbdc30baa529814fd0cf6178e2
+size 381
